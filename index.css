@@ -1,3 +1,8 @@
-#heading {
-    color: rebeccapurple;
+#headerComponent {
+  color: red;
+}
+
+.lodu {
+  font-style: italic;
+  color: blueviolet;
 }
